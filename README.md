@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jnspvsc" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Fmetro-ui-dock%2F512%2FTwitter_NEW.png&f=1&nofb=1" alt="jnspvsc" height="30" width="40" /></a>
+<a href="https://discord.gg/uQCXycyBAN" target="blank"><img align="center" src="https://images-ext-2.discordapp.net/external/2dZVVL6feMSM7lxfFkKVW__LToSOzmToSEmocJV5vcA/https/cdn.discordapp.com/embed/avatars/0.png&f=1&nofb=1" alt="jnspvsc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15524127" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.n5qiiQq2zOs0xsDPVyVJaQHaHa%26pid%3DApi&f=1" alt="15524127" height="30" width="40" /></a>
 <a href="https://instagram.com/911.jnsp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="911.jnsp" height="30" width="40" /></a>
 </p>

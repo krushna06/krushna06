@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Botlist**
 
-- 📝 Here is a [Botlist](cutt.ly/krushna) that I made. I also made this [botlist](https://discord-bot-list.krushnaplayz.repl.co) for fun!!
+- 📝 Here is a [botlist](cutt.ly/krushna) that I made. I also made this [botlist](https://discord-bot-list.krushnaplayz.repl.co) for fun!!
 
 - 💬 Ask me about **anything**
 

@@ -10,3 +10,5 @@
 
 ### Connect with me:
 
+[Discord](https://discord.gg/et67UY5J5C)
+[Instagram](https://www.instagram.com/itz___krushna/)

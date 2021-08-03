@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve other's problem.
 
-<hr p color="red"> </hr>
+<hr> </hr> <font color="000000">
 
 ### Connect with me:
 

@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve other's problem.
 
-### Connect with me:###
+### Connect with me:
 
 
 ➼ [Discord](https://discord.gg/et67UY5J5C)

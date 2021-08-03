@@ -13,4 +13,5 @@
 
 ➼ [Discord](https://discord.gg/et67UY5J5C)
 <hr></hr>
+
 ➼ [Instagram](https://www.instagram.com/itz___krushna/)

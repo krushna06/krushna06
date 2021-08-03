@@ -8,10 +8,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve other's problem.
 
+<hr color="red"> </hr>
+
 ### Connect with me:
 
 
 ➼ [Discord](https://discord.gg/et67UY5J5C)
-<hr></hr>
-
 ➼ [Instagram](https://www.instagram.com/itz___krushna/)

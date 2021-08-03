@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-<li>
-[Discord](https://discord.gg/et67UY5J5C)
-[Instagram](https://www.instagram.com/itz___krushna/)
-  </li>
+
+➼ [Discord](https://discord.gg/et67UY5J5C)
+➼ [Instagram](https://www.instagram.com/itz___krushna/)

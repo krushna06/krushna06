@@ -18,7 +18,7 @@
 ➼ [Instagram](https://www.instagram.com/itz___krushna/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krushna06&repo=afk-bot-for-aternos)](https://github.com/krushna06/afk-bot-for-aternos)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krushna06&repo=Rythm-Remake)](https://github.com/krushna06/afk-bot-for-aternos)
 
 ![Krushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushna06)](https://github.com/krushna06/github-readme-stats)

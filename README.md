@@ -18,7 +18,6 @@
 ➼ [Instagram](https://www.instagram.com/itz___krushna/)
 
 
-[![Krushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushna06)](https://github.com/krushna06/github-readme-stats)
 ![Krushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=radical)
 
 

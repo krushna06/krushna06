@@ -19,5 +19,7 @@
 
 
 [![Krushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushna06)](https://github.com/krushna06/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 

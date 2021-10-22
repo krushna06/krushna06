@@ -17,7 +17,7 @@
 ➼ [Discord](https://discord.gg/et67UY5J5C)
 ➼ [Instagram](https://www.instagram.com/itz___krushna/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/krushna06/afk-bot-for-aternos)
 
 
 ![Krushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=radical)

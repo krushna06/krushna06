@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to solve other's problem.
 
 ### Connect with me:
-
+<a href="https://discord.gg/64kTr7aC"><img src="https://discord.com/api/guilds/748770590189682721/widget.png?style=banner2"></a>
 
 ➼ [Website](https://krushna.me)
 ➼ [Shop](https://krushna.me/botshop)

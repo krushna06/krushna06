@@ -9,11 +9,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to solve other's problem.
 
-### My Discord profile:
-<a href="https://discord.gg/64kTr7aC"><img src="https://discord.com/api/guilds/748770590189682721/widget.png?style=banner2"></a>
-![Discord](https://discord.c99.nl/widget/theme-2/750374218083991562.png)
-[![MoG Dornox#1985](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/750374218083991562?simple=true)](https://discordextremelist.xyz/en-NZ/users/744603004493365330)
-
 ### Connect with me:
 
 ➼ [Website](https://krushna.me)

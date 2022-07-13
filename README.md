@@ -13,14 +13,12 @@ I am a passionate UI/UX designer who bridges the gap between development and des
 
 ## 🚧 My Projects
 
-- [💼 DevFolio](https://devfolio.js.org) - Well documented Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
-- [📝 Blog](https://anil.gatsbyjs.io) - Personal blog site.
-- [🎓 QP Hoard](https://qp.pages.dev) - PWA Hoarding Question Papers for undergrads.
-- [🌩️ Atmos](https://atmos.pages.dev) - The Modern UI Weather App.
-- [🥘 Recipes Counter](https://recipes-counter.web.app) - Fullstack Recipes logging PWA.
-- [⏳ Pomodorox](https://pomodorox.pages.dev) - Hourglass concept pomodoro timer.
+- [💼 Portfolio](https://krushna.tech) - My portfolio.
+- [🎓 Kepler Bot](https://kepler.dornox.live) - My discord multipurpose-bot.
+- [🌩️ Namelessmc Site](https://dornox.live) - My namelessmc forums website.
+- [🥘 MoG Network](https://mognetwork.in) - A Indian minecraft server.
 
-...explore my [other repos](https://github.com/AnilSeervi?tab=repositories) for more projects.
+...explore my [other repos](https://github.com/krushna06?tab=repositories) for more projects.
 
 <div align="center">
 

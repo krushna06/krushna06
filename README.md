@@ -1,6 +1,6 @@
 <div align="right">
 
-[Portfolio](https://krushna.tech) | [Discord Server](https://discord.gg/7AYYyjZ4B8
+[Portfolio](https://krushna.tech) | [Discord Server](https://discord.gg/7AYYyjZ4B8)
 
 </div>
 

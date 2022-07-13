@@ -8,7 +8,7 @@
 
 My Name is [**Krushna**](https://krushna.tech)
   
-I am a passionate UI/UX designer who bridges the gap between development and design.
+**I am a passionate UI/UX designer who bridges the gap between development and design.**
   
 
 ## 🚧 My Projects

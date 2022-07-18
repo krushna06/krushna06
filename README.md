@@ -9,10 +9,7 @@
 My Name is [**Krushna**](https://krushna.tech)
   
 **I am a passionate UI/UX designer who bridges the gap between development and design.**
-  
-  <a href="https://discord.com/users/750374218083991562" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/750374218083991562?bg=1f1f1f&borderRadius=5px">
-</a>
+ 
 
 ## 🚧 My Projects
 

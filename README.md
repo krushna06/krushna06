@@ -15,7 +15,7 @@ My Name is [**Krushna**](https://krushna.tech)
 
 - [💼 Portfolio](https://krushna.tech) - My portfolio.
 - [🎓 Kepler Bot](https://keplerbot.xyz) - My discord multipurpose-bot.
-<a href="https://top.gg/bot/1047853733431738418">
+<a href="https://vcodes.xyz/bot/1047853733431738418/vote">
 <img src="https://vcodes.xyz/api/v1/bot/1047853733431738418/widget.svg">
 </a>
 

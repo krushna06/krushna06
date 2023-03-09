@@ -15,6 +15,7 @@ My Name is [**Krushna**](https://krushna.tech)
 
 - [💼 Portfolio](https://krushna.tech) - My portfolio.
 - [🎓 Kepler Bot](https://keplerbot.xyz) - My discord multipurpose-bot.
+- https://vcodes.xyz/api/v1/bot/1047853733431738418/widget.svg
 - [🥘 MoG Network](https://mognetwork.in) - A Indian minecraft server.
 
 ...explore my [other repos](https://github.com/krushna06?tab=repositories) for more projects.

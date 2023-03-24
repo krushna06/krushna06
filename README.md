@@ -25,7 +25,7 @@ My Name is [**Krushna**](https://krushna.tech)
 [![](https://komarev.com/ghpvc/?username=krushna06&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushna06&hide_border=true&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--

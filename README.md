@@ -14,13 +14,12 @@ My Name is [**Krushna**](https://krushna.tech)
 ## 🚧 My Projects
 
 - [💼 Portfolio](https://krushna.tech) - My portfolio.
+- 🥘 [MoG Network](https://mognetwork.in) - A Indian minecraft server.
+...explore my [other repos](https://github.com/krushna06?tab=repositories) for more projects.
 - [🎓 Kepler Bot](https://keplerbot.xyz) - My discord multipurpose-bot.
 <a href="https://vcodes.xyz/bot/1047853733431738418/vote">
 <img src="https://vcodes.xyz/api/v1/bot/1047853733431738418/widget.svg">
 </a>
-
-🥘 [MoG Network](https://mognetwork.in) - A Indian minecraft server.
-...explore my [other repos](https://github.com/krushna06?tab=repositories) for more projects.
 
 <div align="center">
 

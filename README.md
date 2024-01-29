@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue">
 </p>
 <p align="center">
-  <img src="https://socialify.git.ci/krushna06/krushna06/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="krushna06" width="700" height="300" />
+  <img src="https://socialify.git.ci/krushna06/afk-bot-for-aternos/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="krushna06" width="700" height="300" />
 </p>
 
 <!-- Badges Start -->

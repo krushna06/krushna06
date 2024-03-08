@@ -9,9 +9,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue">
 </p>
-<p align="center">
-  <img src="https://socialify.git.ci/krushna06/afk-bot-for-aternos/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="krushna06" width="700" height="300" />
-</p>
+
 
 <!-- Badges Start -->
 <p align="center">
@@ -35,39 +33,4 @@
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ytgiefk474kvsgeamlsa4wog54&count=5">
-</p>
-
-
-<!--START_SECTION:waka-->
-
-**🐱 My GitHub Data** 
-
-> 📦 334.3 kB Used in GitHub's Storage 
- > 
-> 🏆 58 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
-
-<!--START_SECTION:waka-simple-->
-
-```text
-Total Time: 1,561 hrs 59 mins
-
-C++                536 hrs 44 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.36 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.06 %
-Python             206 hrs         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.19 %
-C                  125 hrs 22 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.03 %
-Bash               82 hrs 43 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.30 %
-YAML               71 hrs 25 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.57 %
-```
-
-<!--END_SECTION:waka-simple-->
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>

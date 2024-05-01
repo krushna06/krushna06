@@ -18,12 +18,6 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 <hr>
 
-<details>
-  <summary><b>Click to reveal about me</b></summary>
-<br>
-<details>
-  <summary><big><b>Click to reveal stats</b></big></summary>
-  
 ### Stats
 
 <picture>
@@ -40,11 +34,6 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 [![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
 
-</details>
-
-<details>
-  <summary ><big><b>Click to reveal skills</b></big></summary>
-  
 ### Skills
 
 #### Programming Languages & Frameworks:
@@ -79,9 +68,5 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 #### Other Tools & Technologies:
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,babel,npm,pnpm,prisma,pug,ubuntu,windows,yarn)](https://skillicons.dev)
-
-</details>
-
-</details>
 
 <hr>

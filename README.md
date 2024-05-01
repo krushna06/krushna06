@@ -1,4 +1,5 @@
 ## Hello! 👋
+
 <a href="https://discord.com/users/853620650592567304">
  <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/853620650592567304?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
 </a>
@@ -7,7 +8,13 @@
 
 <hr>
 
+<p>
 Hi there! I'm Krushna, a passionate frontend developer and enthusiast about technology. I love exploring various programming languages and tools to build exciting projects.
+</p>
+
+<p>
+- I'm currently working on <a href="https://github.com/krushna06/webdrop">Webdrop</a> and <a href="https://github.com/krushna06/statsvlr">StatsVLR</a>.
+</p>
 
 <hr>
 

@@ -1,4 +1,7 @@
 ## Hello! 👋
+<a href="https://discord.com/users/853620650592567304">
+ <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/853620650592567304?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
+</a>
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=krushna06&&style=for-the-badge)
 
@@ -8,6 +11,12 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 <hr>
 
+<details>
+  <summary><b>Click to reveal about me</b></summary>
+<br>
+<details>
+  <summary><big><b>Click to reveal skills</b></big></summary>
+  
 ### Skills
 
 #### Programming Languages & Frameworks:
@@ -43,11 +52,13 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 #### Other Tools & Technologies:
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,babel,npm,pnpm,prisma,pug,ubuntu,windows,yarn)](https://skillicons.dev)
 
-### Stats
+</details>
 
 <details>
-  <summary>Click to reveal stats</summary>
+  <summary ><big><b>Click to reveal stats</b></big></summary>
   
+### Stats
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=dark"
@@ -60,12 +71,10 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
   <img src="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true" />
 </picture>
 
-  [![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
+[![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
+
+</details>
 
 </details>
 
 <hr>
-
-### What I'm doing right now
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853620650592567304)](https://discord.com/users/853620650592567304)

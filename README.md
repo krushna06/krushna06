@@ -15,7 +15,28 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
   <summary><b>Click to reveal about me</b></summary>
 <br>
 <details>
-  <summary><big><b>Click to reveal skills</b></big></summary>
+  <summary><big><b>Click to reveal stats</b></big></summary>
+  
+### Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true" />
+</picture>
+
+[![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
+
+</details>
+
+<details>
+  <summary ><big><b>Click to reveal skills</b></big></summary>
   
 ### Skills
 
@@ -51,27 +72,6 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 #### Other Tools & Technologies:
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,babel,npm,pnpm,prisma,pug,ubuntu,windows,yarn)](https://skillicons.dev)
-
-</details>
-
-<details>
-  <summary ><big><b>Click to reveal stats</b></big></summary>
-  
-### Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true" />
-</picture>
-
-[![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
 
 </details>
 

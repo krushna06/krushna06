@@ -1,9 +1,5 @@
 ## Hello! 👋
 
-<a href="https://discord.com/users/853620650592567304">
- <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/853620650592567304?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
-</a>
-
 ![GitHub profile views](https://komarev.com/ghpvc/?username=krushna06&&style=for-the-badge)
 
 <hr>

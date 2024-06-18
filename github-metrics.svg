@@ -358,8 +358,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L57,140.5L87,140.5L105,140.5L171,140.5L291,140.5L303,140.5L333,140.5L339,140.5L357,140.5L363,140.5L369,140.5L375,140.5L381,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,138.782L435,119.554L429,113.641L423,139.137L417,140.383L411,121.812L405,116.696L399,124.766L393,108.712L387,109.39L381,140.296L375,117.752L369,140.456L363,134.056L357,132.248L339,138.9L333,5L303,128.57L291,140.441L171,140.499L105,140.495L87,24.784L57,140.393L39,140.499Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L57,140.5L87,140.5L105,140.5L171,140.5L291,140.5L303,140.5L333,140.5L339,140.5L357,140.5L363,140.5L369,140.5L375,140.5L381,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,143.321L435,142.536L429,140.774L423,143.325L417,140.57L411,140.715L405,140.556L399,142.37L393,140.584L387,140.528L381,140.521L375,140.503L369,140.501L363,140.578L357,140.733L339,140.5L333,275.545L303,140.502L291,140.501L171,140.501L105,140.504L87,255.837L57,140.502L39,140.501Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L57,140.5L105,140.5L171,140.5L303,140.5L333,140.5L339,140.5L357,140.5L363,140.5L369,140.5L375,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,125.827L435,138.398L429,114.916L423,139.137L417,134.379L411,130.722L405,116.696L399,124.993L393,107.171L387,95.602L375,140.498L369,140.456L363,134.056L357,132.248L339,138.9L333,5L303,128.57L171,140.499L105,140.495L57,140.393L39,140.499Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L57,140.5L105,140.5L171,140.5L303,140.5L333,140.5L339,140.5L357,140.5L363,140.5L369,140.5L375,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,143.336L435,141.291L429,140.645L423,143.325L417,140.57L411,140.715L405,140.556L399,142.36L393,140.587L387,140.562L375,140.5L369,140.501L363,140.578L357,140.733L339,140.5L333,275.545L303,140.502L171,140.501L105,140.504L57,140.502L39,140.501Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1437,7 +1437,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.05 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.15333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1459,7 +1459,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1465 times</div>
+                                <div class="text">Repositories have been deployed 1466 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1535,7 +1535,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 38.5k out of 206m repositories</span>
+                                    <span class="gh">ranked 38.5k out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 310 times</div>
                             </div>
@@ -1781,7 +1781,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 605k out of 206m repositories</span>
+                                    <span class="gh">ranked 605k out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 51 stars</div>
                             </div>

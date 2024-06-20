@@ -217,13 +217,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">krushna06/mcmarket-namelessmc-fetch</span>
+                            <span class="diff-handle">krushna06/afk-bot-for-aternos</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">krushna06/Pterodactyl-Bot</span>
+                            <span class="diff-handle">krushna06/mcmarket-namelessmc-fetch</span>
                         </div>
                     </section>
                     <section>
@@ -231,11 +231,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +414k</span>
-                                <span class="deleted">  -412k</span>
+                                <span class="added"> +1.13m</span>
+                                <span class="deleted"> -47.1k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -246,8 +246,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +353k</span>
-                                <span class="deleted">  -352k</span>
+                                <span class="added">  +414k</span>
+                                <span class="deleted">  -412k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -366,8 +366,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L66.917,140.5L78.083,140.5L83.667,140.5L111.583,140.5L189.75,140.5L301.417,140.5L312.583,140.5L329.333,140.5L340.5,140.5L346.083,140.5L357.25,140.5L362.833,140.5L368.417,140.5L379.583,140.5L385.167,140.5L390.75,140.5L396.333,140.5L401.917,140.5L407.5,140.5L413.083,140.5L418.667,140.5L424.25,140.5L429.833,140.5L435.417,140.5L441,140.5L441,64.113L435.417,118.214L429.833,112.35L424.25,137.906L418.667,133.208L413.083,120.109L407.5,139.351L401.917,123.437L396.333,107.145L390.75,95.602L385.167,140.296L379.583,117.752L368.417,134.056L362.833,132.248L357.25,140.499L346.083,138.9L340.5,5L329.333,140.479L312.583,128.57L301.417,140.441L189.75,140.499L111.583,24.784L83.667,140.394L78.083,140.494L66.917,140.496L39,140.5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L66.917,140.5L78.083,140.5L83.667,140.5L111.583,140.5L189.75,140.5L301.417,140.5L312.583,140.5L329.333,140.5L340.5,140.5L346.083,140.5L357.25,140.5L362.833,140.5L368.417,140.5L379.583,140.5L385.167,140.5L390.75,140.5L396.333,140.5L401.917,140.5L407.5,140.5L413.083,140.5L418.667,140.5L424.25,140.5L429.833,140.5L435.417,140.5L441,140.5L441,144.662L435.417,143.878L429.833,142.074L424.25,144.554L418.667,141.743L413.083,142.422L407.5,141.636L401.917,143.043L396.333,140.597L390.75,140.562L385.167,140.521L379.583,140.503L368.417,140.578L362.833,140.733L357.25,140.513L346.083,140.5L340.5,275.545L329.333,140.512L312.583,140.502L301.417,140.501L189.75,140.501L111.583,255.837L83.667,140.501L78.083,140.507L66.917,140.503L39,140.501Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L66.917,140.5L78.083,140.5L83.667,140.5L111.583,140.5L128.333,140.5L189.75,140.5L295.833,140.5L301.417,140.5L307,140.5L312.583,140.5L329.333,140.5L340.5,140.5L346.083,140.5L357.25,140.5L362.833,140.5L368.417,140.5L379.583,140.5L385.167,140.5L390.75,140.5L396.333,140.5L401.917,140.5L407.5,140.5L413.083,140.5L418.667,140.5L424.25,140.5L429.833,140.5L435.417,140.5L441,140.5L441,64.109L435.417,118.214L429.833,112.35L424.25,137.906L418.667,133.208L413.083,120.09L407.5,115.574L401.917,123.437L396.333,107.145L390.75,95.602L385.167,140.296L379.583,117.752L368.417,134.056L362.833,132.248L357.25,140.499L346.083,138.9L340.5,5L329.333,140.479L312.583,128.57L307,140.498L301.417,140.44L295.833,126.587L189.75,140.499L128.333,140.495L111.583,24.784L83.667,140.393L78.083,140.494L66.917,140.496L39,140.5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L66.917,140.5L78.083,140.5L83.667,140.5L111.583,140.5L128.333,140.5L189.75,140.5L295.833,140.5L301.417,140.5L307,140.5L312.583,140.5L329.333,140.5L340.5,140.5L346.083,140.5L357.25,140.5L362.833,140.5L368.417,140.5L379.583,140.5L385.167,140.5L390.75,140.5L396.333,140.5L401.917,140.5L407.5,140.5L413.083,140.5L418.667,140.5L424.25,140.5L429.833,140.5L435.417,140.5L441,140.5L441,144.666L435.417,143.878L429.833,142.074L424.25,144.554L418.667,141.743L413.083,142.436L407.5,141.676L401.917,143.043L396.333,140.597L390.75,140.562L385.167,140.521L379.583,140.503L368.417,140.578L362.833,140.733L357.25,140.513L346.083,140.5L340.5,275.545L329.333,140.512L312.583,140.502L307,140.5L301.417,140.501L295.833,149.922L189.75,140.501L128.333,140.504L111.583,255.837L83.667,140.502L78.083,140.507L66.917,140.504L39,140.501Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1455,7 +1455,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.94 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.04333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1477,7 +1477,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1522 times</div>
+                                <div class="text">Repositories have been deployed 1523 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1593,7 +1593,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.46m out of 139m users</span>
+                                    <span class="gh">ranked 2.46m out of 138m users</span>
                                 </div>
                                 <div class="text">Published 23 public repositories</div>
                             </div>
@@ -1720,7 +1720,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 857k out of 139m users</span>
+                                    <span class="gh">ranked 857k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>

@@ -14,20 +14,6 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 <hr>
 
-### Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=krushna06&show_icons=true" />
-</picture>
-
 [![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
 
 ### Skills

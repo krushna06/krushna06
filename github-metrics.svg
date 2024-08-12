@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    313 MB used
+                                    314 MB used
                                 </div>
                             </section>
                             <section>
@@ -217,28 +217,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">krushna06/afk-bot-for-aternos</span>
+                            <span class="diff-handle">krushna06/mcmarket-namelessmc-fetch</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">krushna06/mcmarket-namelessmc-fetch</span>
+                            <span class="diff-handle">krushna06/Pterodactyl-Bot</span>
                         </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +1.13m</span>
-                                <span class="deleted"> -47.1k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -251,6 +239,18 @@
                             </div>
                             <span> </span>
                         </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +353k</span>
+                                <span class="deleted">  -352k</span>
+                            </div>
+                            <span> </span>
+                        </div>
                     </section>
                 </div>
                 <div class="row margin-bottom">
@@ -258,27 +258,27 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(60.174285714285716,0)">
+                            <g class="tick" opacity="1" transform="translate(84.00714285714285,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(129.8542857142857,0)">
+                            <g class="tick" opacity="1" transform="translate(149.33214285714286,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(200.3,0)">
+                            <g class="tick" opacity="1" transform="translate(215.375,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(270.74571428571426,0)">
+                            <g class="tick" opacity="1" transform="translate(281.41785714285714,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2024</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(340.42571428571426,0)">
+                            <g class="tick" opacity="1" transform="translate(346.7428571428571,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(410.10571428571427,0)">
+                            <g class="tick" opacity="1" transform="translate(412.0678571428572,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
@@ -322,8 +322,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L49.72,140.5L55.08,140.5L81.88,140.5L97.96,140.5L156.92,140.5L258.76,140.5L264.12,140.5L269.48,140.5L274.84,140.5L290.92,140.5L301.64,140.5L307,140.5L317.72,140.5L328.44,140.5L333.8,140.5L339.16,140.5L344.52,140.5L349.88,140.5L355.24,140.5L360.6,140.5L365.96,140.5L371.32,140.5L376.68,140.5L382.04,140.5L387.4,140.5L392.76,140.5L398.12,140.5L403.48,140.5L408.84,140.5L414.2,140.5L419.56,140.5L424.92,140.5L430.28,140.5L435.64,140.5L441,140.5L441,139.866L435.64,101.782L430.28,18.712L424.92,135.409L419.56,138.296L414.2,135.537L408.84,128.354L403.48,137.827L398.12,122.894L392.76,118.214L387.4,123.174L382.04,137.906L376.68,133.208L371.32,120.09L365.96,115.574L360.6,123.437L355.24,107.145L349.88,95.602L344.52,140.296L339.16,140.476L333.8,140.456L328.44,134.056L317.72,140.499L307,138.9L301.64,5L290.92,140.479L274.84,128.57L269.48,140.498L264.12,140.44L258.76,126.587L156.92,140.499L97.96,140.495L81.88,24.784L55.08,140.393L49.72,140.494L39,140.496Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L49.72,140.5L55.08,140.5L81.88,140.5L97.96,140.5L156.92,140.5L258.76,140.5L264.12,140.5L269.48,140.5L274.84,140.5L290.92,140.5L301.64,140.5L307,140.5L317.72,140.5L328.44,140.5L333.8,140.5L339.16,140.5L344.52,140.5L349.88,140.5L355.24,140.5L360.6,140.5L365.96,140.5L371.32,140.5L376.68,140.5L382.04,140.5L387.4,140.5L392.76,140.5L398.12,140.5L403.48,140.5L408.84,140.5L414.2,140.5L419.56,140.5L424.92,140.5L430.28,140.5L435.64,140.5L441,140.5L441,141.102L435.64,161.573L430.28,153.648L424.92,142.197L419.56,142.303L414.2,144.275L408.84,141.942L403.48,142.423L398.12,146.715L392.76,143.878L387.4,142.009L382.04,144.554L376.68,141.743L371.32,142.436L365.96,141.676L360.6,143.043L355.24,140.597L349.88,140.562L344.52,140.521L339.16,140.501L333.8,140.501L328.44,140.578L317.72,140.513L307,140.5L301.64,275.545L290.92,140.512L274.84,140.502L269.48,140.5L264.12,140.501L258.76,149.922L156.92,140.501L97.96,140.504L81.88,255.837L55.08,140.502L49.72,140.507L39,140.504Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L64.125,140.5L74.175,140.5L79.2,140.5L104.325,140.5L174.675,140.5L270.15,140.5L275.175,140.5L280.2,140.5L285.225,140.5L300.3,140.5L310.35,140.5L315.375,140.5L325.425,140.5L335.475,140.5L340.5,140.5L345.525,140.5L350.55,140.5L355.575,140.5L360.6,140.5L365.625,140.5L370.65,140.5L375.675,140.5L380.7,140.5L385.725,140.5L390.75,140.5L395.775,140.5L400.8,140.5L405.825,140.5L410.85,140.5L415.875,140.5L420.9,140.5L425.925,140.5L430.95,140.5L435.975,140.5L441,140.5L441,140.013L435.975,116.383L430.95,137.657L425.925,135.409L420.9,138.296L415.875,135.537L410.85,138.938L405.825,137.91L400.8,122.894L395.775,118.214L390.75,123.174L385.725,137.906L380.7,133.208L375.675,120.09L370.65,115.574L365.625,123.437L360.6,107.145L355.575,95.602L350.55,140.296L345.525,140.476L340.5,140.456L335.475,134.056L325.425,140.499L315.375,138.9L310.35,5L300.3,140.479L285.225,128.57L280.2,140.498L275.175,140.44L270.15,126.587L174.675,140.499L104.325,24.784L79.2,140.394L74.175,140.494L64.125,140.496L39,140.5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L64.125,140.5L74.175,140.5L79.2,140.5L104.325,140.5L174.675,140.5L270.15,140.5L275.175,140.5L280.2,140.5L285.225,140.5L300.3,140.5L310.35,140.5L315.375,140.5L325.425,140.5L335.475,140.5L340.5,140.5L345.525,140.5L350.55,140.5L355.575,140.5L360.6,140.5L365.625,140.5L370.65,140.5L375.675,140.5L380.7,140.5L385.725,140.5L390.75,140.5L395.775,140.5L400.8,140.5L405.825,140.5L410.85,140.5L415.875,140.5L420.9,140.5L425.925,140.5L430.95,140.5L435.975,140.5L441,140.5L441,140.823L435.975,158.129L430.95,142.526L425.925,142.197L420.9,142.303L415.875,144.275L410.85,141.905L405.825,142.423L400.8,146.715L395.775,143.878L390.75,142.009L385.725,144.554L380.7,141.743L375.675,142.436L370.65,141.676L365.625,143.043L360.6,140.597L355.575,140.562L350.55,140.521L345.525,140.501L340.5,140.501L335.475,140.578L325.425,140.513L315.375,140.5L310.35,275.545L300.3,140.512L285.225,140.502L280.2,140.5L275.175,140.501L270.15,149.922L174.675,140.501L104.325,255.837L79.2,140.501L74.175,140.507L64.125,140.503L39,140.501Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1396,7 +1396,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="192.82 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="192.92333333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1418,7 +1418,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2866 times</div>
+                                <div class="text">Repositories have been deployed 2867 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1494,7 +1494,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 34.3k out of 211m repositories</span>
+                                    <span class="gh">ranked 34.3k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 349 times</div>
                             </div>
@@ -1773,7 +1773,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 590k out of 211m repositories</span>
+                                    <span class="gh">ranked 590k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 54 stars</div>
                             </div>

@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    397 Forkers
+                                    398 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -258,31 +258,27 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(43.60204081632653,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(105.81632653061224,0)">
+                            <g class="tick" opacity="1" transform="translate(84.57052441229656,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(168.71428571428572,0)">
+                            <g class="tick" opacity="1" transform="translate(151.44936708860757,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(231.6122448979592,0)">
+                            <g class="tick" opacity="1" transform="translate(218.32820976491865,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2024</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(293.8265306122449,0)">
+                            <g class="tick" opacity="1" transform="translate(284.4801084990959,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(356.0408163265306,0)">
+                            <g class="tick" opacity="1" transform="translate(350.6320072332731,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(418.9387755102041,0)">
+                            <g class="tick" opacity="1" transform="translate(417.51084990958407,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
@@ -326,8 +322,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L62.929,140.5L129.929,140.5L220.857,140.5L225.643,140.5L230.429,140.5L235.214,140.5L259.143,140.5L283.071,140.5L287.857,140.5L292.643,140.5L297.429,140.5L302.214,140.5L307,140.5L311.786,140.5L316.571,140.5L321.357,140.5L326.143,140.5L330.929,140.5L335.714,140.5L340.5,140.5L345.286,140.5L350.071,140.5L354.857,140.5L359.643,140.5L364.429,140.5L369.214,140.5L374,140.5L378.786,140.5L383.571,140.5L388.357,140.5L393.143,140.5L397.929,140.5L402.714,140.5L407.5,140.5L412.286,140.5L417.071,140.5L421.857,140.5L426.643,140.5L431.429,140.5L436.214,140.5L441,140.5L441,132.765L436.214,127.31L431.429,139.575L426.643,136.368L421.857,109.788L417.071,129.383L412.286,140.219L407.5,105.672L402.714,137.053L397.929,140.276L393.143,136.817L388.357,135.935L383.571,137.375L378.786,118.418L374,139.711L369.214,136.982L364.429,139.643L359.643,136.984L354.857,129.652L350.071,139.191L345.286,137.953L340.5,119.554L335.714,137.555L330.929,139.137L326.143,134.496L321.357,121.812L316.571,116.696L311.786,137.882L307,107.171L302.214,95.602L297.429,140.296L292.643,140.498L287.857,140.456L283.071,134.056L259.143,5L235.214,128.57L230.429,140.498L225.643,140.44L220.857,126.587L129.929,140.499L62.929,24.784L39,140.394Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L62.929,140.5L129.929,140.5L220.857,140.5L225.643,140.5L230.429,140.5L235.214,140.5L259.143,140.5L283.071,140.5L287.857,140.5L292.643,140.5L297.429,140.5L302.214,140.5L307,140.5L311.786,140.5L316.571,140.5L321.357,140.5L326.143,140.5L330.929,140.5L335.714,140.5L340.5,140.5L345.286,140.5L350.071,140.5L354.857,140.5L359.643,140.5L364.429,140.5L369.214,140.5L374,140.5L378.786,140.5L383.571,140.5L388.357,140.5L393.143,140.5L397.929,140.5L402.714,140.5L407.5,140.5L412.286,140.5L417.071,140.5L421.857,140.5L426.643,140.5L431.429,140.5L436.214,140.5L441,140.5L441,140.631L436.214,157.554L431.429,140.541L426.643,144.619L421.857,141.098L417.071,143.573L412.286,141.636L407.5,141.473L402.714,140.572L397.929,141.021L393.143,141.379L388.357,141.126L383.571,140.699L378.786,156.352L374,140.903L369.214,140.611L364.429,140.969L359.643,142.814L354.857,140.647L350.071,141.231L345.286,142.903L340.5,142.536L335.714,140.706L330.929,143.325L326.143,140.501L321.357,140.715L316.571,140.556L311.786,142.358L307,140.587L302.214,140.562L297.429,140.521L292.643,140.5L287.857,140.501L283.071,140.578L259.143,275.545L235.214,140.502L230.429,140.5L225.643,140.501L220.857,149.922L129.929,140.501L62.929,255.837L39,140.501Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L206.924,140.5L212.013,140.5L217.101,140.5L222.19,140.5L247.633,140.5L273.076,140.5L278.165,140.5L283.253,140.5L288.342,140.5L293.43,140.5L298.519,140.5L303.608,140.5L308.696,140.5L313.785,140.5L318.873,140.5L329.051,140.5L339.228,140.5L344.316,140.5L349.405,140.5L354.494,140.5L359.582,140.5L364.671,140.5L369.759,140.5L374.848,140.5L379.937,140.5L385.025,140.5L390.114,140.5L395.203,140.5L400.291,140.5L405.38,140.5L410.468,140.5L415.557,140.5L420.646,140.5L425.734,140.5L430.823,140.5L435.911,140.5L441,140.5L441,120.847L435.911,127.31L430.823,138.267L425.734,136.161L420.646,109.792L415.557,137.951L410.468,140.219L405.38,105.692L400.291,137.165L395.203,140.278L390.114,136.818L385.025,135.965L379.937,132.47L374.848,107.721L369.759,140.063L364.671,136.982L359.582,139.867L354.494,136.984L349.405,129.916L344.316,139.239L339.228,127.357L329.051,127.409L318.873,134.379L313.785,131.571L308.696,116.723L303.608,137.779L298.519,115.736L293.43,121.844L288.342,140.389L283.253,140.476L278.165,140.456L273.076,134.056L247.633,5L222.19,128.57L217.101,140.498L212.013,140.44L206.924,126.587L39,24.784Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L206.924,140.5L212.013,140.5L217.101,140.5L222.19,140.5L247.633,140.5L273.076,140.5L278.165,140.5L283.253,140.5L288.342,140.5L293.43,140.5L298.519,140.5L303.608,140.5L308.696,140.5L313.785,140.5L318.873,140.5L329.051,140.5L339.228,140.5L344.316,140.5L349.405,140.5L354.494,140.5L359.582,140.5L364.671,140.5L369.759,140.5L374.848,140.5L379.937,140.5L385.025,140.5L390.114,140.5L395.203,140.5L400.291,140.5L405.38,140.5L410.468,140.5L415.557,140.5L420.646,140.5L425.734,140.5L430.823,140.5L435.911,140.5L441,140.5L441,141.605L435.911,157.554L430.823,140.534L425.734,144.684L420.646,140.72L415.557,141.123L410.468,141.636L405.38,141.453L400.291,140.558L395.203,141.019L390.114,141.38L385.025,141.613L379.937,141.369L374.848,156.242L369.759,140.831L364.671,140.611L359.582,140.962L354.494,142.814L349.405,140.537L344.316,140.836L339.228,143.027L329.051,140.503L318.873,140.57L313.785,140.514L308.696,140.541L303.608,142.366L298.519,140.561L293.43,140.542L288.342,140.501L283.253,140.501L278.165,140.501L273.076,140.578L247.633,275.545L222.19,140.502L217.101,140.5L212.013,140.501L206.924,149.922L39,255.837Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1410,7 +1406,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="458.38666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="458.49 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1432,7 +1428,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5436 times</div>
+                                <div class="text">Repositories have been deployed 5437 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1517,7 +1513,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.7625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1548,9 +1544,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 31.2k out of 208m repositories</span>
+                                    <span class="gh">ranked 31.1k out of 205m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 390 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 391 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1787,7 +1783,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 592k out of 208m repositories</span>
+                                    <span class="gh">ranked 592k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 56 stars</div>
                             </div>

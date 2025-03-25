@@ -9,7 +9,7 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 </p>
 
 <p>
-- I'm currently working on <a href="https://github.com/krushna06/webdrop">Webdrop</a> and <a href="https://github.com/krushna06/statsvlr">StatsVLR</a>.
+- I'm currently working on <a href="https://github.com/krushna06/StatsVLR-Predictor">StatsVLR-Predictor</a> and <a href="https://github.com/krushna06/StatsVLR-API">StatsVLR-API</a>.
 </p>
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=krushna06&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&include_all_commits=true" />

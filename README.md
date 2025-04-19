@@ -16,7 +16,7 @@ Hi there! I'm Krushna, a passionate frontend developer and enthusiast about tech
 
 <hr>
 
-[![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)](https://metrics.lecoq.io/about/krushna06)
+[![Metrics](https://raw.githubusercontent.com/krushna06/krushna06/master/github-metrics.svg)]
 
 <details>
   <summary><h1>Skills</h1></summary>

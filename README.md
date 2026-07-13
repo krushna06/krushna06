@@ -8,7 +8,7 @@
 Hi there! I'm Krushna, a passionate frontend developer and enthusiast about technology. I love exploring various programming languages and tools to build exciting projects.
 </p>
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=krushna06&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&include_all_commits=true" />
+<img align="center" width="400" src="https://github-stats-extended.vercel.app/api?username=krushna06&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&include_all_commits=true" />
 
 <hr>
 
